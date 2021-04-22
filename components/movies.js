@@ -1,6 +1,7 @@
 'use strict';
 
 const superagent = require('superagent');
+const handleErrors = require('./errors');
 
 function movieInfo (request, response) {
   console.log(process.env.MOVIE_API_KEY);
