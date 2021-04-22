@@ -1,6 +1,7 @@
 'use strict';
 
 const superagent = require('superagent');
+const handleErrors = require('./errors');
 
 function weatherInfo (request, response) {
   console.log(request.query)
