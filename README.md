@@ -8,20 +8,41 @@
 City Explorer API is the backend server for City Explorer.
 
 ## Getting Started
-<!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+
+Install express, cors, dotenv, superagent,
 
 ## Architecture
-<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
+
+This app uses React on the frontend, with Bootstrap for styling and Axios for API requests. Connect server to front end, add weather and movie api
 
 ## Change Log
-<!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 
-01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
+10 April 2021: Created city-explorer-API, installed dependencies
+
+12 April 2021: Updated README file, set up server repo, completed back-end API task list
+
+14 April 2021: Added table to render forecast for lab 07, added error functionality
 
 ## Credit and Collaborations
-<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 
-Name of feature: ________________________________
+Special thanks to Aloysious, Qadree, Marie
+Special thanks to TAs Paul, Chance, Hexx, Kristian
+
+Pair programming with Alex Williams
+
+Name of feature: Set up server repo, Weather placeholder, update forecast for city searched
+
+Estimate of time needed to complete: 240 minutes
+
+Start time: 1200
+
+Finish time: 1600
+
+Actual time needed to complete: 480 minutes
+
+---
+
+Name of feature: 
 
 Estimate of time needed to complete: _____
 
